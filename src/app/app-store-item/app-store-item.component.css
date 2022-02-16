@@ -1,0 +1,41 @@
+.app-store-item {
+  height: 150px;
+  width: 150px;
+  margin: 30px;
+  position: relative;
+}
+
+.heatmap-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.heatmap {
+  height: 150px;
+  width: 150px;
+}
+
+.title {
+  color: #4c4c4c;
+}
+
+.category {
+  color: #999;
+}
+
+.title, .category {
+  font-size: 9pt;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+img {
+  margin-top: -9px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  box-shadow: 0 4px 3px -2px rgba(0, 0, 0, 0.8);
+}
+

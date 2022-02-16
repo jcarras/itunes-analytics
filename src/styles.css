@@ -1,0 +1,9 @@
+@font-face {
+  font-family: MyriadPro;
+  src: url('assets/fonts/myriad-set-pro_text.woff');
+}
+
+body {
+  font-family: MyriadPro;
+  margin: 0;
+}
